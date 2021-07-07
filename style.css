@@ -1,0 +1,73 @@
+header{
+    text-align: center;
+}
+
+#logo{
+    font-family: Majestic Valentine; 
+    src: url('Majestic Valentine.ttf');
+    font-size: 75px;
+    padding-bottom: 10px;
+}
+
+#sublogo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    position: absolute;
+    top: 250px;
+    left: 640px;
+}
+
+#menu ul{
+    padding:0px;
+    margin:0px;
+    background-color: white;
+    list-style:none;
+}
+
+#menu ul li {
+    display: inline-block;
+    padding: 2px 20px;
+   
+}
+
+#menu ul li a{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 555px;
+}
+
+footer{
+    text-align: center;
+}
+
+img{
+    padding: 20px;
+    margin: 0px 10px 10px 0;
+    position: relative;
+    left: 145px;
+}
+
+section p{
+    position: relative;
+    left: 60px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#beachpics{
+    display: inline;
+}
+
+
+#mountainpics{
+    display: inline;
+}
+
+#citypics{
+    display: inline;
+}
+
